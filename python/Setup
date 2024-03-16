@@ -1,0 +1,10 @@
+Python:
+1.Linux users simply use pip to install python.Check pip version first and then run pip(version) install python(version - 3 recommended).
+2.Windows and mac user need to download python package.The give youtube link will help them for doing so.
+https://youtu.be/YYXdXT2l-Gg?si=sjDCf5YCDHAsnbdw
+3.Next step is to install pygame .Open a terminal, and type 'sudo apt-get install idle pygame', enter your password and type 'y' at the prompts, if necessary. 
+4.When the codebase will be given to you and if you found something you have not installed.Simply do pip install or sudo apt install.
+
+Git:
+1.Git is useful for you guys to work on the task simultaneously and push your individual work onto the main branch.
+2.Installinhg git :https://www.geeksforgeeks.org/how-to-install-git-in-vs-code/
